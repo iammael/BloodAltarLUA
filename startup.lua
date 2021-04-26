@@ -1,1 +1,1 @@
-shell.run("bloodMagic/Controller.lua")
+shell.run("BloodAltarLUA")
